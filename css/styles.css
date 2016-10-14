@@ -1,0 +1,43 @@
+body {
+  background-color: #ccffff;
+  font-family: helvetica;
+}
+
+img {
+  width: 100%;
+  padding-bottom: 20px;
+}
+
+h5 {
+  font-weight: bolder;
+  font-family: papyrus;
+}
+
+nav {
+  padding-left: 45%;
+  color: red;
+  font-weight: bold;
+  font-family: papyrus;
+}
+
+nav ul {
+  padding: 5px;
+  float: left;
+  list-style-type: none;
+}
+
+nav li {
+  float: left;
+}
+
+nav li a {
+  display: block;
+  height: 10px;
+  padding: 12px 18px 8px 18px;
+  vertical-align: middle;
+}
+
+h1 {
+  color: blue;
+  font-family: papyrus;
+}
