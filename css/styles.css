@@ -1,6 +1,7 @@
 body {
-  background-color: #e6ffff;
+  background-color: #ffe6f9;
   font-family: helvetica;
+  font-size: 16px;
   padding: 40px;
 }
 
@@ -15,10 +16,11 @@ h5 {
 }
 
 nav {
-  padding-left: 45%;
+  padding-left: 40%;
   color: red;
   font-weight: bold;
   font-family: papyrus;
+  font-size: 17px;
 }
 
 nav ul {
@@ -42,8 +44,19 @@ h1 {
   color: blue;
   font-family: papyrus;
 }
+h2 {
+  color: maroon;
+}
 p {
   padding-left: 10px;
   padding-right: 5px;
   padding-top: 10px:
+}
+.row {
+  padding-top: 70px;
+}
+
+.col-md-12 {
+  padding: 0px;
+  text-align: center;
 }
