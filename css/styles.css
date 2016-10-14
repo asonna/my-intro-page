@@ -4,6 +4,10 @@ body {
   font-size: 16px;
   padding: 40px;
 }
+.jumbotron {
+  opacity: 0%;
+  background-color: #e6ccff;
+}
 
 img {
   width: 100%;
@@ -17,7 +21,7 @@ h5 {
 
 nav {
   padding-left: 40%;
-  color: red;
+  color: blue;
   font-weight: bold;
   font-family: papyrus;
   font-size: 17px;
@@ -61,8 +65,9 @@ p {
   padding-top: 70px;
 }
 
-.col-md-12 {
-  padding: 0px;
+.col {
+  background-color: maroon;
+  padding: 20px;
   text-align: center;
 }
 
