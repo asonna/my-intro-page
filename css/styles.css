@@ -1,6 +1,7 @@
 body {
-  background-color: #ccffff;
+  background-color: #e6ffff;
   font-family: helvetica;
+  padding: 40px;
 }
 
 img {
@@ -40,4 +41,9 @@ nav li a {
 h1 {
   color: blue;
   font-family: papyrus;
+}
+p {
+  padding-left: 10px;
+  padding-right: 5px;
+  padding-top: 10px:
 }
