@@ -41,11 +41,16 @@ nav li a {
 }
 
 h1 {
-  color: blue;
+  color: maroon;
   font-family: papyrus;
 }
 h2 {
-  color: maroon;
+  color: blue;
+}
+h4 {
+text-align: left;
+padding-left: 15px;
+padding-top: 20px;
 }
 p {
   padding-left: 10px;
@@ -59,4 +64,8 @@ p {
 .col-md-12 {
   padding: 0px;
   text-align: center;
+}
+
+ul {
+  text-align: left;
 }
