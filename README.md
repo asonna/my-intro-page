@@ -8,7 +8,7 @@ A webpage about me which will serve as landing page for my future web programmin
 This page will contain information about me such as: my name, photo, professional background, education, hobbies and interests.
 * _An "About Me" section with my name, photo and my story_
 * _My professional experience and background_
-* _My hobbbies and interests_
+* _My hobbies and interests_
 
 ## Setup/Installation Requirements
 * _Code was design and built using HTML and CSS file in Atom_
