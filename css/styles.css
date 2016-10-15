@@ -13,10 +13,15 @@ img {
   width: 100%;
   padding-bottom: 20px;
 }
+img.img1 {
+  float: left;
+  width: 45%;
+  padding-right: 20px;
+}
 
 h5 {
   font-weight: bolder;
-  font-family: papyrus;
+  /*font-family: papyrus;*/
 }
 
 nav {
@@ -56,6 +61,11 @@ text-align: left;
 padding-left: 15px;
 padding-top: 20px;
 }
+h4 {
+text-align: left;
+margin-bottom: 0px;
+
+}
 p {
   padding-left: 10px;
   padding-right: 5px;
@@ -73,4 +83,18 @@ p {
 
 ul {
   text-align: left;
+}
+
+.slogan {
+  color: red;
+  font-weight: bolder;
+}
+
+/*.panel-info {
+  padding-left: 10px;
+  padding-right: 5px;
+  padding-top: 10px:*/
+}
+.panel-heading {
+  margin: 0px;
 }
