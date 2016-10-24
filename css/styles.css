@@ -1,17 +1,16 @@
 body {
-  background-color: #ffe6f9;
+  /*background-color: #ffe6f9;*/
+  background-image: url(../img/blue2.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
   font-family: helvetica;
   font-size: 16px;
   padding: 40px;
 }
-.jumbotron {
-  opacity: 0%;
-  background-color: #e6ccff;
-}
 
 img {
   width: 100%;
-  padding-bottom: 20px;
+  padding: 15px;
 }
 img.img1 {
   float: left;
@@ -26,7 +25,7 @@ h5 {
 
 nav {
   padding-left: 40%;
-  color: blue;
+  color: #0077b3;
   font-weight: bold;
   font-family: papyrus;
   font-size: 17px;
@@ -56,14 +55,16 @@ h1 {
 h2 {
   color: blue;
 }
-h4 {
+h5 {
 text-align: left;
 padding-left: 15px;
 padding-top: 20px;
+color: #0077b3;
 }
 h4 {
 text-align: left;
 margin-bottom: 0px;
+color: darkgray;
 
 }
 p {
@@ -71,18 +72,32 @@ p {
   padding-right: 5px;
   padding-top: 10px:
 }
+
+
+ul {
+  text-align: left;
+}
+
+.jumbotron {
+  opacity: 0%;
+  /*background-color: #e6ccff;*/
+  background-image: url(../img/blue.jpg);
+  background-size: cover;
+  color: darkgray;
+}
+
 .row {
   padding-top: 70px;
 }
 
-.col {
-  background-color: maroon;
+.col-md-6 {
   padding: 20px;
   text-align: center;
 }
 
-ul {
-  text-align: left;
+.col-md-3 {
+  padding: 20px;
+  text-align: center;
 }
 
 .slogan {
@@ -95,6 +110,7 @@ ul {
   padding-right: 5px;
   padding-top: 10px:*/
 }
+
 .panel-heading {
   margin: 0px;
 }
